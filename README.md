@@ -3,7 +3,8 @@
 This is an educational app that I practiced drawing custom shapes with Compose Canvas. 
 
 ## Preview 
-[preview.webm](https://github.com/TayfunCesur/Clok/assets/16436048/a8571989-ca9e-4a5d-b9a8-cfce88fc601a)
+[preview.webm](https://github.com/TayfunCesur/Clok/assets/16436048/e1747a31-e2b7-43dd-af6f-b8e47d4b1213)
+
 
 
 ## Project Powered By
