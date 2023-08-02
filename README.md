@@ -1,6 +1,7 @@
 # Clok
 
 This is an educational app that I practiced drawing custom shapes with Compose Canvas. 
+<br/>For detailed explanation, please visit [medium story](https://medium.com/@tcesur/clok-the-math-behind-the-clock-20174e3e2e83)
 
 ## Preview 
 [preview.webm](https://github.com/TayfunCesur/Clok/assets/16436048/e1747a31-e2b7-43dd-af6f-b8e47d4b1213)
